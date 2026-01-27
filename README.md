@@ -1,6 +1,9 @@
 # Framework-16-GPU-Case
 A model of a case for the Framework 16 GPU or Expansion Bay Shell when detached from device
 
+| <img height="400" src="https://supabase-altrup.dkg.zone/storage/v1/object/public/images/full/projects/framework-gpu-case-half.jpg" /> | <img height="400" src="https://supabase-altrup.dkg.zone/storage/v1/object/public/images/full/projects/framework-gpu-case-top.jpg" /> |
+| ----- | ----- |
+
 ## Important Notes
 - Side Insert parts were printed using TPU
 - Everything else was printed using PLA
