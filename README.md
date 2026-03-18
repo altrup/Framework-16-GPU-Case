@@ -7,7 +7,6 @@ A model of a case for the Framework 16 GPU or Expansion Bay Shell when detached 
 ## Important Notes
 - Side Insert parts were printed using TPU
 - Everything else was printed using PLA
-- This is nowhere close to perfect
 - I have now adjusted the models, however, in my latest print, I had to carve some material away to get it to fit
   - So, it probably works, but might have to make some small changes
 
